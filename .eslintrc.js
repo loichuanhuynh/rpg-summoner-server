@@ -24,10 +24,6 @@ module.exports = {
       2,
       { 'SwitchCase': 1 }
     ],
-    'quotes': [
-      'error',
-      'single'
-    ],
     'semi': [
       'error',
       'always'
